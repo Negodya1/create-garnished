@@ -317,7 +317,7 @@
   "item.garnished.galactic_cane": "Галактическая трость",
   "item.garnished.icy_mastic_chunk": "Замороженный кусочек мастики",
   "item.garnished.coal_truffle": "Угольный трюфель",
-  "item.garnished.sturdy_waffle": "Sturdy Waffle", //
+  "item.garnished.sturdy_waffle": "Прочная вафля",
   "item.garnished.volatile_dust": "Нестабильная пыль",
   "effect.garnished.sugar_high": "Высокий уровень сахара",
   "effect.garnished.sanctity": "Святость",
@@ -372,27 +372,27 @@
   "block.garnished.polished_unstable_stone_wall": "Полированная ограда из нестабильного камня",
   "block.garnished.chiseled_unstable_stone_bricks": "Резные кирпичи из нестабильного камня",
 
-  "item.garnished.ghast_tendril": "Ghast Tendril", //
-  "item.garnished.chestnut": "Chestnut", //
-  "item.garnished.ungarnished_chestnut": "Chestnut", //
-  "item.garnished.cinder_chestnut": "Chestnut", //
-  "item.garnished.melted_cinder_chestnut": "Chestnut", //
-  "item.garnished.sweetened_chestnut": "Chestnut", //
-  "block.garnished.chestnut_sapling": "Chestnut", //
-  "item.garnished.cinder_chestnut_slow_falling": "Chestnut", //
-  "item.garnished.honeyed_chestnut": "Chestnut", //
-  "item.garnished.chocolate_glazed_chestnut": "Chestnut", //
-  "item.garnished.raw_tenebrous_meat": "Raw Tenebrous Meat", //
-  "item.garnished.cooked_tenebrous_meat": "Cooked Tenebrous Meat", //
-  "item.garnished.aching_tenebrous_clump": "Aching Tenebrous Clump", //
-  "item.garnished.gloomy_gathering": "Gloomy Gathering", //
-  "item.garnished.fishy_surprise": "Fishy Surprise", //
-  "item.garnished.ghandercken": "Ghandercken", //
-  "item.garnished.walnut_gorge_cream": "Walnut Gorge Cream Bowl", //
-  "item.garnished.cashew_sorbet_scoop": "Cashew Sorbet Scoop", //
-  "item.garnished.cashew_sorbet_delight": "Cashew Sorbet Delight", //
-  "item.garnished.wheat_graze": "Wheat Graze", //
-  "item.garnished.porkchop_and_graze": "Porkchop & Graze", //
+  "item.garnished.ghast_tendril": "Щупальце гаста",
+  "item.garnished.chestnut": "Каштан",
+  "item.garnished.ungarnished_chestnut": "Каштан",
+  "item.garnished.cinder_chestnut": "Каштан",
+  "item.garnished.melted_cinder_chestnut": "Каштан",
+  "item.garnished.sweetened_chestnut": "Каштан",
+  "block.garnished.chestnut_sapling": "Каштан",
+  "item.garnished.cinder_chestnut_slow_falling": "Каштан",
+  "item.garnished.honeyed_chestnut": "Каштан",
+  "item.garnished.chocolate_glazed_chestnut": "Каштан",
+  "item.garnished.raw_tenebrous_meat": "Сырое мрачное мясо",
+  "item.garnished.cooked_tenebrous_meat": "Жареное мрачное мясо",
+  "item.garnished.aching_tenebrous_clump": "Болезный мрачный комок",
+  "item.garnished.gloomy_gathering": "Мрачный сбор",
+  "item.garnished.fishy_surprise": "Рыбный сюрприз",
+  "item.garnished.ghandercken": "Гастэндкурица",
+  "item.garnished.walnut_gorge_cream": "Сытный крем из грецкого ореха",
+  "item.garnished.cashew_sorbet_scoop": "Шарик сорбета из кешью",
+  "item.garnished.cashew_sorbet_delight": "Прелестный сорбет из кешью",
+  "item.garnished.wheat_graze": "Пшеничная жвачка",
+  "item.garnished.porkchop_and_graze": "Свинина и жвачка",
 
   "block.garnished.peanut_sack": "Мешочек орехов",
   "block.garnished.cashew_sack": "Мешочек орехов",
@@ -516,6 +516,6 @@
   "advancement.garnished.abyssal_stone.description": "Получите Камень бездны",
   "advancement.garnished.unstable_stone.title": "Абстракция, в смертном плане",
   "advancement.garnished.unstable_stone.description": "Получите Нестабильный камень",
-  "advancements.garnished.consume_all_foods.title": "Welcome to Hell's Kitchen!", //
-  "advancements.garnished.consume_all_foods.description": "Consume All Foods From The Create: Garnished mod" //
+  "advancements.garnished.consume_all_foods.title": "Добро пожаловать на Адскую кухню!",
+  "advancements.garnished.consume_all_foods.description": "Употребите всю еду из мода Create: Garnished"
 }
